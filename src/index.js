@@ -15,5 +15,3 @@ export default async function Goro (baseCurrencyCode, currencyResidenceElement) 
     convertiblePrices[key].innerHTML = value * exchangeRate
   })
 }
-
-Goro('USD', 'unit')
