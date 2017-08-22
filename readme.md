@@ -12,11 +12,15 @@ $ docker-compose up -d
 
 ## Roadmap
 
-* Location Service
-* Country Code Service
-* Converter Service
+* ~~Location Service~~
+* ~~Country Code Service~~
+* ~~Converter Service~~
 
 ### Resources
+
+* [RestCountries](https://restcountries.eu/)
+* [Fixer](http://fixer.io/)
+* [IPInfo](https://ipinfo.io/)
 
 ### Todo
 
