@@ -5,7 +5,6 @@ export default function getLocation () {
   return new Promise((resolve, reject) => {
     axios.get(URL).then((response) => {
       resolve(response.data.country)
-    })
-    .catch((e) => reject(e))
+    }).catch((e) => reject(e))
   })
 }
