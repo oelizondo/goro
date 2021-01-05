@@ -10,7 +10,7 @@
     "build": "webpack-dev-server --hot --inline --host 0.0.0.0"
   },
   "dependencies": {
-    "axios": "^0.16.2"
+    "axios": "^0.21.1"
   },
   "devDependencies": {
     "babel-core": "^6.25.0",
